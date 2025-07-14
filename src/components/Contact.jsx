@@ -150,9 +150,9 @@ const ContactForm = () => {
                         {[
                             "less than INR 50000",
                             "INR 50000 to INR 1 Lac",
-                            "INR 1 Lac to INR 3 Lac",
-                            "INR 3 lac to INR 5 Lac",
-                            "INR 5 Lac to INR 10 Lac",
+                            "INR 1 Lac to INR 3 Lacs",
+                            "INR 3 lacs to INR 5 Lacs",
+                            "INR 5 Lacs to INR 10 Lacs",
                         ].map((option, i) => (
                             <label key={i} className="flex items-center md:text-lg text-sm gap-2">
                                 <input
